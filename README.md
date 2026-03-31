@@ -1,2 +1,11 @@
 # kali-nethunter
-install kali-nethunter on non root device through termux
+
+## this process was applicable on non-rooteble devices.
+
+---
+
+## The main application where you have to run these all cmd's is **TERMUX**.
+i've uploaded termux application or link for easy download.
+
+---
+
