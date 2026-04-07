@@ -5,7 +5,8 @@
 ---
 
 ## The main application where you have to run these all cmd's is **TERMUX**.
-i've uploaded termux application or link for easy download.
+You have to download TERMUX from play store.
 
 ---
 
+after download the first step was to install basic commands which was start from.
