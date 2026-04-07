@@ -9,7 +9,7 @@ You have to download TERMUX from play store.
 
 ---
 
-after download the first step was to install basic commands which was start from.
+after download the first step was to install basic Tools. the below commnds are enough for it.
 
 #### basic package installtion.
 ```
